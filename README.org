@@ -1,0 +1,22 @@
+#+title: Modern Backend Practices with Go
+
+* What the app will do
+** Create and manage accounts
+- Owner
+- Balance
+- Currency
+
+** Record all balance changes
+- Create an account entry for each change
+
+** Money transfer transaction
+- Consistently change both receiving and sending accounts.
+* Databases
+** DONE Design DB Schema
+DEADLINE: <2023-11-06 Mon> SCHEDULED: <2023-11-06 Mon>
+
+Using =db-diagram=
+
+https://dbdiagram.io/d/Simple-bank-65491ef67d8bbd6465994de3
+** DB Diagram
+** Generate SQL code
